@@ -1,2 +1,1 @@
-# MSc Ecology and Data Science
-# UCL
+# MSc Ecology and Data Science - UCL
